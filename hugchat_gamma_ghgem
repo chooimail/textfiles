@@ -1,19 +1,57 @@
-Introduction to Greenhouse Gas Emissions
+Introduction to Greenhouse Gas Emissions:
+Greenhouse gas (GHG) emissions from human activities intensify the greenhouse effect and plays a role in making the planet warmer.
+Human activities are responsible for almost all of the increase in greenhouse gases in the atmosphere over the last 150 years.
+This contributes to climate change.
+Reference for GHG Emissions intro: https://en.wikipedia.org/wiki/Greenhouse_gas_emissions
 
+What are Greenhouse Gases?:
+They are gases that insulate the planet from losing heat to space, thus raising its surface temperature.
+The major anthropogenic (human origin) sources of greenhouse gases are:
+- Carbon dioxide (CO2)
+- Nitrous oxide (N2O)
+- Methane (CH4)
+- Sulfur hexafluoride (SF6)
+- Hydrofluorocarbons (HFCs)
+- Perfluorocarbons (PFCs)
+- Nitrogen trifluoride (NF3).
 
-What are Greenhouse Gases?
+Sources of Greenhouse Gas Emissions:
+Carbon dioxide (CO2), from fossil fuel combustion, deforestation, and large contribution from industrial and transportation sector.
+Methane (CH4), from agriculture, landfills, and fossil fuel production.
+Nitrous oxide (N2O), from agricultural (apaplication of fertilizer), biomass combustion, and certain industrial processes.
+HFCs and PFCs, from refrigerants
+Sulfur hexafluoride (SF6), from electricity transmission
+Nitrogen trifluoride (NF3), from semiconductor manufacturing
+Reference for Greenhouse gases: https://www.c2es.org/content/main-greenhouse-gases/
 
+Impact on the Environment:
+There are many impacts on the environment as a whole on planet Earth, and the most affected in the short term are all living beings; humans, flora and fauna alike.
+Global warming has seen regional and global average temperature increase in the 21st century, and 2023 has been the hottest year in recorded history thus far.
+Ocean acidification impacts all life in the ocean, from corals to seagrass and seaweeds, to the behaviours of fishes and aquatic mammals, and ultimately changing areas of ecosystems in the long run.
+Climate change is not just changing of weather patterns, but also the impact of severe weather events such as more rain, stronger winds, and longer dry spells resulting in more damages to infrastructure, and food security issues with less or unpredictable crop yield.
 
-Sources of Greenhouse Gas Emissions
+Calculating Greenhouse Gas Emissions:
+A foundational reference point is the GHG Protocol standards and guidance materials.
+For a quick calculation example of Scope 1 emissions; let's say a company uses 6 million standard cubic feet (6,000,000 scf) of natural gas for a 12 month period. Then we look for the relevant emission factor for the fuel type, and the corresponding global warming potential (GWP) conversion to CO2e (carbon dioxide equivalent). Thus resulting in multiplication for respective gases and addition for the total CO2e value. (6000000 x 0.05444) + (6000000 x 0.00103 x 28 ÷ 1000) + (6000000 x 0.0001 x 265 ÷ 1000) = 326.94 metric tons of CO2e
+For a quick calculation example of Scope 2 emissions; let's say a company uses 1.2 million kilowatt-hour (1,200,000 kWh) of electricity for a 12 month period. Then we look for the relevant Grid Emission Factor depending on the location where the electricity was generated and distributed over the grid. Thus resulting in multiplication of two values for the total CO2e value. 1200000 x 0.758 = 909.6 metric tons of CO2e
+As for Scope 3 emissions, I would advise you to consult a human rather than a chatbot on this matter. Mainly because there are a total of 15 categories under Scope 3; of which 8 are upstream emissions and 7 are downstream emissions. There are also many nuanced details to be discussed and understood before deciding which category will account for the activity that will be calculated.
 
+Government Policies and Agreements:
+Internationally, there are many treaties discussed and agreed among member countries participating in the UNFCCC to achieve a more sustainable planet for future generations to come.
+In Malaysia, it is still a work in progress be it at the Federal or State levels.
+Federal level policy:
+As of early Q2 of 2024, the only policy related to this topic has been the Energy Efficiency and Conservation Act 2023.
+Highlighting the need to promote demand-side energy management, effective use of energy consumption by industrial and commercial sectors, office buildings, and energy-using products.
+The Energy Commission is granted wide investigative and enforcement powers to ensure compliance.
+State level policy/plan:
+Each state may have different priorities. Please search for and read more on the following; Johor Green Deal, Sarawak Environment Bill, and Rancangan Selangor Pertama.
+References for federal policies: https://www.rahmatlim.com/perspectives/articles/26723/mykh_takes-a-significant-step-towards-its-net-zero-goals-dewan-rakyat-passes-energy-efficiency-and-conservation-bill-2023
+References for state policies: https://www.channelnewsasia.com/asia/malaysia-sarawak-sabah-borneo-ombudsman-climate-change-emission-bills-3939131
+References for state policies: https://govinsider.asia/intl-en/article/johor-launches-green-deal-framework-to-drive-the-states-sustainable-development
+References for state policies: https://selangorkini.my/wp-content/uploads/2022/07/RS1-Report-BM.pdf
 
-Impact on the Environment
-
-
-Calculating Greenhouse Gas Emissions
-
-
-Government Policies and Agreements
-
-
-Conclusion and Further Resources
+Conclusion and Further Resources:
+In conclusion, every action that we take, no matter how small, can contribute to making positive impacts.
+For industry and commercial sector to measure their GHG emissions to know where they stand currently.
+For SMEs to start knowing more about what GHG emissions are, take steps to collaborate with internal and external stakeholders and play a part for a sustainable future of this planet Earth.
+For individuals to pause and think about current lifestyle habits, look for opportunities to contribute and carry forward personal choices into different aspects of life.
